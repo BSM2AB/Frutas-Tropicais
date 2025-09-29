@@ -1,13 +1,14 @@
 # Curiosidades sobre as Frutas-Tropicais
-Sobre
+# Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 
-Recursos de acessibilidade
+# Recursos de acessibilidade
 Atributos aria
 alt
 tab-index
 menu de acessibilidade
-Tecnologias utilizadas
+
+# Tecnologias utilizadas
 Bootstrap
 ScrollRevealjs
 HTML
