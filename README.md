@@ -9,8 +9,12 @@ tab-index
 menu de acessibilidade
 
 # Tecnologias utilizadas
-Bootstrap
-ScrollRevealjs
+Bootstrap 
+
+ScrollRevealjs  
+
 HTML
+
 CSS
+
 JS
