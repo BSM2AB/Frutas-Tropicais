@@ -10,11 +10,7 @@ menu de acessibilidade
 
 # Tecnologias utilizadas
 Bootstrap 
-
 ScrollRevealjs  
-
 HTML
-
 CSS
-
 JS
